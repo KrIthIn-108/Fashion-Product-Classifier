@@ -34,7 +34,7 @@ BASE_DIR = Path(__file__).resolve().parent
 # ============================================================
 
 # Public Hugging Face repository containing our fine-tuned model
-HF_REPO_ID = "Zansh108/fashion-product-classifier-vit"
+HF_REPO_ID = "KrIthIn-108/fashion-product-classifier-vit"
 HF_FILENAME = "class_weighted_vit_model.pth"
 
 # Download/cache the model from Hugging Face Hub.
