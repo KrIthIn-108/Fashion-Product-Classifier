@@ -557,22 +557,7 @@ class FashionPredictor:
                 )
             )
 
-        # --------------------------------------------
-        # Final JSON-compatible dictionary
-        # --------------------------------------------
 
-        # return {
-        #     "guardrail": {
-        #         "is_clothing": True,
-        #         "confidence": round(
-        #             guardrail[
-        #                 "clothing_confidence"
-        #             ],
-        #             4
-        #         ),
-        #     },
-        #     "predictions": predictions,
-        # }
         # --------------------------------------------------------
         # Base Google ViT predictions
         # --------------------------------------------------------
