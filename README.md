@@ -4,6 +4,18 @@
 
 > **A fashion classifier that started with a failed viva question, disappeared for almost two years, and came back as a CLIP + Vision Transformer pipeline.**
 
+## Demo1: Working demo on Fashion products
+
+
+<img src="demogifs\fpcdemo.gif" width="600" alt="Project Demo1">
+
+
+<img src="demogifs\workingdemo.gif" width="600" alt="Project Demo2">
+
+## Demo2: CLIP as Guardrail in action
+
+<img src="demogifs\faildemo.gif" width="600" alt="Project Demo3">
+
 ---
 
 ## 🧵 The Story Behind This Project
